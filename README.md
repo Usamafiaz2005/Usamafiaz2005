@@ -61,6 +61,7 @@ I build web apps and automate growth systems — by day a **Software Engineering
 <p align="left">
   <a href="https://linkedin.com/in/usama-fiaz-marketer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://growthbrotherhood.com" target="_blank"><img src="https://img.shields.io/badge/Agency-Growth%20Brotherhood-111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.instagram.com/growth_brotherhood/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
