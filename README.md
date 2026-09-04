@@ -118,3 +118,56 @@ Opportunity Detection
 Revenue Opportunity
        ↓
 AI-Powered Outreach
+🎓 Lost & Found Smart System
+
+A university project designed to make it easier for students to report,
+search for, and recover lost items.
+
+📚 Currently Learning
+Next.js
+TypeScript
+Node.js
+MongoDB
+System Design
+AI Integration
+SaaS Architecture
+Cloud Deployment
+Software Engineering
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Usamafiaz2005&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamafiaz2005&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Usamafiaz2005&theme=tokyonight&hide_border=true" /> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Usamafiaz2005/Usamafiaz2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
+🎯 2026 Goals
+ Become a stronger Full-Stack Developer
+ Build production-ready SaaS products
+ Improve system design skills
+ Build and deploy AI-powered applications
+ Contribute to Open Source
+ Build a strong developer portfolio
+ Work with real-world clients
+ Launch a SaaS product
+💡 My Development Philosophy
+
+Learn → Build → Break → Fix → Improve → Repeat.
+
+I believe the best way to learn software development is to build things,
+make mistakes, understand why they happened, and keep improving.
+
+🌐 Connect With Me
+<p align="left"> <a href="https://www.instagram.com/usamafiaz/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.linkedin.com/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+⚡ Fun Fact
+I don't just want to write code.
+
+I want to build things people actually use.
+<p align="center">
+⭐ Thanks for visiting my profile!
+
+Let's build something awesome. 🚀
+
+</p> ```
