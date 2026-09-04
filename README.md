@@ -1,67 +1,120 @@
-<div align="center">
+# 👋 Hey, I'm Usama Fiaz
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Usama%20Fiaz&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Founder%20%40%20Growth%20Brotherhood&descSize=18&descAlignY=75" width="100%"/>
+### 💻 Software Engineering Student | Full-Stack Developer | Builder
 
-</div>
+I'm a Software Engineering student who enjoys turning ideas into real-world
+web applications, SaaS products, and developer tools.
 
-### 👋 About Me
+I love working across the stack — from designing interfaces to building APIs,
+databases, authentication systems, and AI-powered features.
 
-I build web apps and automate growth systems — by day a **Software Engineering student** at UCP, Lahore, and founder of **[Growth Brotherhood](https://growthbrotherhood.com)**, a digital marketing agency delivering web design, brand identity, and social media systems for clients worldwide.
+---
 
-- 🎓 Software Engineering @ University of Central Punjab (UCP), Lahore
-- 🚀 Founder — Growth Brotherhood (web design, branding, social media, motion graphics)
-- 🛠️ Currently building AI-powered tools for lead intelligence and full-stack e-commerce
-- 💬 Ask me about React, Node.js, or scaling a digital agency from scratch
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/usama-fiaz-marketer/)
+## 🚀 About Me
 
-<br>
+- 🎓 Software Engineering Student
+- 💻 Full-Stack Developer
+- 🌱 Currently improving my skills in modern web development
+- 🤖 Interested in AI, SaaS & automation
+- 🧠 Always learning something new
+- 🔨 I enjoy building projects instead of just watching tutorials
+- 🇵🇰 Based in Pakistan
 
-### 🧰 Tech Stack
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+## 🛠️ Tech Stack
 
-<!-- Tip: remove any badge above you don't actually use — a focused stack reads stronger than a long one -->
+### 💻 Languages
 
-<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 📌 Featured Projects
+### 🌐 Frontend
 
-- **[HomeDécor](https://homedecore.homes)** — full-stack luxury e-commerce platform (Next.js, Node.js/Express, MongoDB, Stripe), deployed on Vercel + Railway
-- **Project Name** — one-line outcome, not just description
-- **Project Name** — one-line outcome, not just description
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-<!-- Add more real, shipped repos here as you go — keep it to 3-5 strongest ones -->
+### ⚙️ Backend
 
-<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### 📊 GitHub Stats
+### 🗄️ Database
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Usamafiaz2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamafiaz2005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usamafiaz2005&theme=tokyonight&hide_border=true"/>
-</p>
+### ☁️ Tools & Platforms
 
-<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-### 🌐 Connect
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/usama-fiaz-marketer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://growthbrotherhood.com" target="_blank"><img src="https://img.shields.io/badge/Agency-Growth%20Brotherhood-111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.instagram.com/growth_brotherhood/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+## 🔥 What I'm Building
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+### 🤖 AI & SaaS
+
+I'm interested in building AI-powered products that solve practical business
+problems.
+
+Some areas I'm exploring:
+
+- 🤖 AI automation
+- 🎯 AI-powered lead generation
+- 📊 Business intelligence
+- ⚡ Workflow automation
+- 💼 SaaS platforms
+- 🔎 Smart data analysis
+
+---
+
+## 📌 Featured Projects
+
+### 🏠 Home Decor E-Commerce
+
+A modern e-commerce platform designed for the Pakistani home-decor market.
+
+**Stack:**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB`
+
+Features include:
+
+- 🛒 Product management
+- 🛍️ Shopping experience
+- 📦 Order management
+- 📱 WhatsApp integration
+- 📧 Newsletter
+- 🔍 SEO optimization
+- 📍 Showroom information
+
+---
+
+### 🤖 AI Client Hunter
+
+An AI-powered SaaS concept designed to help digital agencies discover potential
+business clients and identify opportunities for growth.
+
+**Concept:**
+
+```text
+Business Discovery
+       ↓
+Website Analysis
+       ↓
+Social & Advertising Analysis
+       ↓
+Opportunity Detection
+       ↓
+Revenue Opportunity
+       ↓
+AI-Powered Outreach
