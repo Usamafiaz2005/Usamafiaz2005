@@ -1,67 +1,113 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Usama%20Fiaz&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Founder%20%40%20Growth%20Brotherhood&descSize=18&descAlignY=75" width="100%"/>
+# Hey, I'm Usama Fiaz 👋
+
+### Software Engineering Student | Web Developer | Digital Marketer
+
+Building projects, exploring AI, and learning by creating.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usamafiaz2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
-### 👋 About Me
+---
 
-I build web apps and automate growth systems — by day a **Software Engineering student** at UCP, Lahore, and founder of **[Growth Brotherhood](https://growthbrotherhood.com)**, a digital marketing agency delivering web design, brand identity, and social media systems for clients worldwide.
+## 👨‍💻 About Me
 
-- 🎓 Software Engineering @ University of Central Punjab (UCP), Lahore
-- 🚀 Founder — Growth Brotherhood (web design, branding, social media, motion graphics)
-- 🛠️ Currently building AI-powered tools for lead intelligence and full-stack e-commerce
-- 💬 Ask me about React, Node.js, or scaling a digital agency from scratch
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/usama-fiaz-marketer/)
+- 🎓 Software Engineering student at UCP.
+- 💻 Interested in web development and software engineering.
+- 🤖 Exploring AI tools and AI-powered applications.
+- 📈 Experienced in digital marketing and online growth.
+- 🚀 Building projects, experimenting with ideas, and improving my skills.
+- 🌱 Currently learning, building, and figuring things out one project at a time.
 
-<br>
+---
 
-### 🧰 Tech Stack
+## 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+### Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- Tip: remove any badge above you don't actually use — a focused stack reads stronger than a long one -->
+### Frameworks & Tools
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
+### Other Interests
+- Artificial Intelligence & AI-assisted development
+- Digital Marketing & Social Media Marketing
+- UI/UX and interactive web experiences
+- Software Engineering & problem-solving
 
-### 📌 Featured Projects
+---
 
-- **[HomeDécor](https://homedecore.homes)** — full-stack luxury e-commerce platform (Next.js, Node.js/Express, MongoDB, Stripe), deployed on Vercel + Railway
-- **Project Name** — one-line outcome, not just description
-- **Project Name** — one-line outcome, not just description
+## 🚀 Featured Projects
 
-<!-- Add more real, shipped repos here as you go — keep it to 3-5 strongest ones -->
+### 🏡 Home Decor Website
+A web development project focused on a home decor shopping experience.
 
-<br>
+- Full-stack web development
+- Frontend and backend integration
+- Admin functionality
 
-### 📊 GitHub Stats
+### 🤖 AI Client Hunter
+An AI-assisted project exploring business research, lead discovery, and outreach workflows.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Usamafiaz2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamafiaz2005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- Business research and prospecting
+- Website and online presence analysis
+- Exploring AI-powered automation
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usamafiaz2005&theme=tokyonight&hide_border=true"/>
-</p>
+### 🌐 Asset Care London
+A website project for a heating, plumbing, and renewable energy services business.
 
-<br>
+- Business website development
+- Modern UI and user experience
+- Service-focused presentation
 
-### 🌐 Connect
+> More projects coming as I continue building and learning.
 
-<p align="left">
-  <a href="https://linkedin.com/in/usama-fiaz-marketer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://growthbrotherhood.com" target="_blank"><img src="https://img.shields.io/badge/Agency-Growth%20Brotherhood-111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.instagram.com/growth_brotherhood/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usamafiaz2005&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usamafiaz2005&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Usamafiaz2005&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening my programming fundamentals.
+- Building and deploying practical web applications.
+- Learning more about AI and modern development workflows.
+- Improving my problem-solving and software engineering skills.
+- Turning ideas into projects that people can actually use.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, learning from others, and collaborating on interesting projects.
+
+<div align="center">
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
